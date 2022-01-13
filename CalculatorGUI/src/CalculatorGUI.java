@@ -5,7 +5,7 @@
 
 /**
  *
- * @author rakamahesa
+ * @author raka_mahesa
  */
 public class CalculatorGUI extends javax.swing.JFrame {
     
